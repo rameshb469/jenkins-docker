@@ -1,4 +1,4 @@
-from jenkinsci/blueocean:lts
+from jenkinsci/blueocean:latest
  
 USER root
 RUN apt-get update -qq \
